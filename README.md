@@ -1,2 +1,2 @@
-# mindMaps
-Knowledge gathering and grouping
+# Mindmap - Knowledge gathering and grouping
+TODO
