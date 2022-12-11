@@ -1,2 +1,6 @@
 # Mindmap - Knowledge gathering and grouping
-TODO
+
+<!-- start list-of-files -->
+
+<!-- end list-of-files -->
+
