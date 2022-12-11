@@ -12,5 +12,8 @@ jobs:
       uses: alisuleymantopuz/list-of-files-by-extension-github-action@main
     - name: Commit and push update
       run: |-
+        git config --global user.email "list-of-files@github.action"
+        git config --global user.name "List of files Bot"
+        git add -A
         git commit -m "Added List of files by extension from GitHub Actions"
         git push
