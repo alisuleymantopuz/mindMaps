@@ -13,7 +13,8 @@ jobs:
     - name: Run List of files by extension action
       uses: alisuleymantopuz/list-of-files-by-extension-github-action@main
       with:
-       readme_path: './README.MD' 
+       readme_path: './README.MD'
+       directory: './'
     - name: Commit and push update
       run: |-
         git config --global user.email "list-of-files@github.action"
