@@ -8,14 +8,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - name: Use Node
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14.x'
-    - name: Install node dependencies
-      run: npm install
     - name: Run List of files by extension action
       uses: alisuleymantopuz/list-of-files-by-extension-github-action@main
     - name: Commit and push update
