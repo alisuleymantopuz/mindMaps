@@ -12,10 +12,11 @@
 - [Node.js _ Express Course E2E Application Flow@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/Node.js%20_%20Express%20Course%20E2E%20Application%20Flow@2x.png)
 - [REST API with Node js _ Express@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/REST%20API%20with%20Node%20js%20_%20Express@2x.png)
 - [React Router 6 Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/React%20Router%206%20Crash%20Course@2x.png)
+- [Software Architecture Patterns@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/Software%20Architecture%20Patterns@2x.png)
 - [The Node.js Master Class@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/The%20Node.js%20Master%20Class@2x.png)
 - [The React Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/The%20React%20Crash%20Course@2x.png)
 - [TypeScript Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20Crash%20Course@2x.png)
 - [TypeScript for React@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20for%20React@2x.png)
 
-Mon, 12 Dec 2022 07:01:33 GMT
+Mon, 12 Dec 2022 21:17:05 GMT
 <!-- end list-of-files -->
