@@ -11,6 +11,7 @@
 - [Node.js - Full @2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/Node.js%20-%20Full%20@2x.png)
 - [Node.js _ Express Course E2E Application Flow@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/Node.js%20_%20Express%20Course%20E2E%20Application%20Flow@2x.png)
 - [REST API with Node js _ Express@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/REST%20API%20with%20Node%20js%20_%20Express@2x.png)
+- [RESTful Web API Design with Node.JS@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/RESTful%20Web%20API%20Design%20with%20Node.JS@2x.png)
 - [React Router 6 Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/React%20Router%206%20Crash%20Course@2x.png)
 - [Software Architecture Patterns@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/Software%20Architecture%20Patterns@2x.png)
 - [The Node.js Master Class@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/The%20Node.js%20Master%20Class@2x.png)
@@ -18,5 +19,5 @@
 - [TypeScript Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20Crash%20Course@2x.png)
 - [TypeScript for React@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20for%20React@2x.png)
 
-Sun, 18 Dec 2022 01:12:17 GMT
+Sun, 18 Dec 2022 15:17:03 GMT
 <!-- end list-of-files -->
