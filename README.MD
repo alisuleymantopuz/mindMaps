@@ -22,5 +22,5 @@
 - [TypeScript Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20Crash%20Course@2x.png)
 - [TypeScript for React@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20for%20React@2x.png)
 
-Sun, 18 Dec 2022 20:06:18 GMT
+Sun, 18 Dec 2022 20:09:20 GMT
 <!-- end list-of-files -->
