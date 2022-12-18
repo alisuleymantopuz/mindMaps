@@ -1,8 +1,8 @@
 name: Update README with List of files in directory
 on:
-  workflow_dispatch: # triggers manually
-  schedule:
-  - cron: "0 0 * * *" # triggers every midnight
+  push:
+    branches:
+    - main
 
 jobs:
   build:
