@@ -17,11 +17,12 @@
 - [RESTful Web API Design with Node.JS@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/RESTful%20Web%20API%20Design%20with%20Node.JS@2x.png)
 - [React Router 6 Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/React%20Router%206%20Crash%20Course@2x.png)
 - [Software Architecture Patterns@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/Software%20Architecture%20Patterns@2x.png)
+- [Software Architecture for Busy Developers@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/Software%20Architecture%20for%20Busy%20Developers@2x.png)
 - [The Node.js Master Class@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/The%20Node.js%20Master%20Class@2x.png)
 - [The React Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/The%20React%20Crash%20Course@2x.png)
 - [The Story of Concurrent React@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/The%20Story%20of%20Concurrent%20React@2x.png)
 - [TypeScript Crash Course@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20Crash%20Course@2x.png)
 - [TypeScript for React@2x.png](https://github.com/alisuleymantopuz/mindMaps/blob/main/TypeScript%20for%20React@2x.png)
 
-Sun, 25 Dec 2022 22:29:03 GMT
+Sat, 14 Jan 2023 22:44:49 GMT
 <!-- end list-of-files -->
